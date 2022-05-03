@@ -1,0 +1,7 @@
+ npm create vite@latest
+
+npm install -D tailwindcss postcss autoprefixer (Tailwindcss remove todos os estilos padrão do browser)
+
+(Acessibilidade)
+npm i --save-dev @headlessui/react
+
